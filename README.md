@@ -13,5 +13,5 @@ BlockForge is a simple blockchain implementation in Python using Flask for a web
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/BlockForge.git
+   git clone https://github.com/mrsokk/BlockForge.git
    cd BlockForge
